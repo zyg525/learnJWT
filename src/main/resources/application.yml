@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  security:
+    user:
+      name: zyg
+      password: 123
+
+logging:
+  level:
+    com.zyg: debug
